@@ -1,0 +1,18 @@
+After execution of the Python code:
+
+-> Go to Terminal
+
+-> Type: sqlite3 (press Enter)
+
+-> Type: .open beneficiaries.sqlite (press Enter)
+
+-> Type: .tables (press Enter)
+>>> You should see two tables: beneficiaries, total_support (VIEW)
+
+-> Type: .header on (press Enter)
+
+-> Type: .mode column (press Enter)
+
+-> Type: SELECT * FROM total_support; (press Enter)
+
+-> Type: .quit (press Enter)
