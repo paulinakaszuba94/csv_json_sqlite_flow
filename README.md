@@ -1,7 +1,7 @@
 In this repository you will find:
 
----- <b> Input files: <b/> <br/>
--> <i> przypadki_pomocy_x.csv <i> <br/> <br/>
+---- <b> Input files: </b> <br/>
+-> <i> przypadki_pomocy_x.csv </i> <br/> <br/>
 
 ---- <b> Python script (<i>csv_json_sqlite_flow.py<i/>) that: <b/> <br/>
 -> reads (many) .csv files to a DataFrame, <br/>
