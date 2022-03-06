@@ -1,2 +1,6 @@
-Python script that reads .csv file to a DatFrame, cleans them and create .json file.
-Then based on .json file creates .sqlite DB where data is inserted and additionally, a new VIEW is created.
+Python script that:
+-> reads (many) .csv files to a DataFrame, 
+-> cleans data (preprocessing),
+-> creates .json file from DataFrame,
+-> based on .json file creates .sqlite DB where data is inserted,
+-> builds a specific VIEW in DB.
