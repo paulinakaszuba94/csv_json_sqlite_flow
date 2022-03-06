@@ -1,6 +1,6 @@
-Python script that:
--> reads (many) .csv files to a DataFrame, 
--> cleans data (preprocessing),
--> creates .json file from DataFrame,
--> based on .json file creates .sqlite DB where data is inserted,
--> builds a specific VIEW in DB.
+Python script that: <br/>
+-> reads (many) .csv files to a DataFrame, <br/>
+-> cleans data (preprocessing), <br/>
+-> creates .json file from DataFrame, <br/>
+-> based on .json file creates .sqlite DB where data is inserted, <br/>
+-> builds a specific VIEW in DB. 
