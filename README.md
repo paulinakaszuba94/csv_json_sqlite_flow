@@ -12,10 +12,10 @@ In this repository you will find:
 ---- <b> Helper - how to work with .sqlite DB: </b> <br/>
 -> <i> sqlite_notes.txt </i><br/><br/><br/>
 ---- <b> To do: </b> <br/>
--> Create a folder on your local drive.
--> Clone a repository https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository or simply download input files and Python script.
--> Open <i>csv_json_sqlite_flow.py</i> using PyCharm or some other interpreter.
--> Adjust the path in line 111 (csv_path -> use your path!).
--> Execute the code.
--> To play around with sqlite DB take a look at <i> sqlite_notes.txt </i>.
+-> Create a folder on your local drive.<br/>
+-> Clone a repository https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository or simply download input files and Python script.<br/>
+-> Open <i>csv_json_sqlite_flow.py</i> using PyCharm or some other interpreter.<br/>
+-> Adjust the path in line 111 (csv_path -> use your path!).<br/>
+-> Execute the code.<br/>
+-> To play around with sqlite DB take a look at <i> sqlite_notes.txt </i>.<br/>
 
